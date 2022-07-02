@@ -4,12 +4,12 @@ import SingleCard from './components/SingleCard'
 import { useEffect } from 'react'
 
 const cardImages = [
-  { "src": "/img/abyssm-flesh-render.png", matched: false},
-  { "src": "/img/arclight-elemental.png", matched: false},
-  { "src": "/img/assassins-shadow.png", matched: false},
-  { "src": "/img/berserker-of-the-abyssm.png", matched: false},
-  { "src": "/img/disciple-of-nevermore.png", matched: false},
-  { "src": "/img/greevil-shenanigans.png", matched: false}
+  { "src": "img/abyssm-flesh-render.png", matched: false},
+  { "src": "img/arclight-elemental.png", matched: false},
+  { "src": "img/assassins-shadow.png", matched: false},
+  { "src": "img/berserker-of-the-abyssm.png", matched: false},
+  { "src": "img/disciple-of-nevermore.png", matched: false},
+  { "src": "img/greevil-shenanigans.png", matched: false}
 ]
 
 function App() {
