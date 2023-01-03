@@ -1,74 +1,75 @@
-# Getting Started with Create React App
+# Artifact Memory Game
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+* Esse projeto é um jogo da memória simples, utilizando cartas de um jogo chamado Artifact. 
 
-## Available Scripts
+## Sumário
 
-In the project directory, you can run:
+* [Tecnologias utilizadas](https://github.com/lucasalvesb/artifact-memory-game-study#tecnologias-utilizadas)
+* [Instruções para executar o projeto](https://github.com/lucasalvesb/artifact-memory-game-study#instru%C3%A7%C3%B5es-para-executar-o-projeto)
+* [Desenvolvimento](https://github.com/lucasalvesb/dota-guides#desenvolvimento)
+* [Resultado](https://github.com/lucasalvesb/dota-guides#resultado)
 
-### `npm start`
+## Tecnologias utilizadas
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+* [React](https://pt-br.reactjs.org/)
+* [React Router Dom](https://www.npmjs.com/package/react-router-dom)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Instruções para executar o projeto
 
-### `npm test`
+O projeto pode ser acessado em produção através do seguinte link:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* [Artifact Memory Game](https://lucasalvesb.github.io/artifact-memory-game-study/)
 
-### `npm run build`
+Caso deseje executar localmente, segue instruções:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Tenha instalado na sua máquina:
+```
+Git
+Node V16.15.1
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Clone o repositório com o comando git clone:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```
+git clone https://github.com/lucasalvesb/artifact-memory-game-study.git
+```
 
-### `npm run eject`
+### Entre no diretório que foi criado:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+```
+cd artifact-memory-game-study-main
+```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Instale as dependências:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+```
+npm install
+```
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### Rode o projeto:
 
-## Learn More
+```
+npm run start
+```
+## Desenvolvimento
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Estilização
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+A estilização foi feita em CSS puro.
 
-### Code Splitting
+### Hospedagem
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Para hospedar o site, utilizei da ferramenta github pages.
 
-### Analyzing the Bundle Size
+## Resultado
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Antes de começar
+![image](https://user-images.githubusercontent.com/71532408/210455835-f05016ba-1a8a-47ab-9a70-5e14cc245df7.png)
 
-### Making a Progressive Web App
+Quando alguns pares já foram encontrados
+![image](https://user-images.githubusercontent.com/71532408/210455870-a4cbda48-0e72-4968-9b03-5255b36dba90.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Hover effect no botão de novo jogo
+![image](https://user-images.githubusercontent.com/71532408/210455897-301a9f34-72d2-4841-b4db-45462db66f5f.png)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify .
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
----
-permalink: build/index.html
----
