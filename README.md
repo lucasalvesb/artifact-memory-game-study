@@ -63,13 +63,13 @@ Para hospedar o site, utilizei da ferramenta github pages.
 
 ## Resultado
 
-Antes de começar
+Antes de começar <br>
 ![image](https://user-images.githubusercontent.com/71532408/210455835-f05016ba-1a8a-47ab-9a70-5e14cc245df7.png)
 
-Quando alguns pares já foram encontrados
+Quando alguns pares já foram encontrados <br>
 ![image](https://user-images.githubusercontent.com/71532408/210455870-a4cbda48-0e72-4968-9b03-5255b36dba90.png)
 
-Hover effect no botão de novo jogo
+Hover effect no botão de novo jogo <br>
 ![image](https://user-images.githubusercontent.com/71532408/210455897-301a9f34-72d2-4841-b4db-45462db66f5f.png)
 
 
